@@ -1,6 +1,7 @@
 ```
-Now      →  Hardware Design Intern @ ORCA Dexterity
-Team     →  aCentauri Solar Racing — Aerodynamics (Ex-Lead)
+Intern   →  Hardware Design @ ORCA Dexterity
+Project  →  aCentauri Solar Racing (student team)
+            Aerodynamics · Ex-Lead, still active
 Studies  →  MSc Mechanical Engineering, ETH Zürich
             BSc ETH Zürich · exchange semester at UPenn
 Focus    →  Aerodynamics → CFD · adjoint shape optimisation
@@ -24,11 +25,12 @@ Tools    →  Python · PyAnsys · Siemens NX · Fusion 360
 ## `What I work on`
 
 ```
-Robotics @ ORCA Dexterity
+Internship @ ORCA Dexterity
   - Hardware design for the ORCA dexterous robotic hand
 
-Aerodynamics @ aCentauri
-  - Led the six-person aero department
+Aerodynamics @ aCentauri (student project)
+  - Former lead of the six-person aero department,
+    still actively working in aero
   - Freeform surfacing of the car's outer shell
   - Web-based, AI-driven CFD pipeline: Fluent + Python + HPC
   - Car built for the Bridgestone World Solar Challenge 2025
