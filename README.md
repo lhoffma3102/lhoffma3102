@@ -1,9 +1,9 @@
 ```
+Now      →  Hardware Design Intern @ ORCA Dexterity
+Team     →  aCentauri Solar Racing — Aerodynamics (Ex-Lead)
 Studies  →  MSc Mechanical Engineering, ETH Zürich
             BSc ETH Zürich · exchange semester at UPenn
 Focus    →  Aerodynamics → CFD · adjoint shape optimisation
-Team     →  aCentauri Solar Racing — Aerodynamics (Ex-Lead)
-Now      →  Hardware Design Intern @ ORCA Dexterity
 Compute  →  ANSYS Fluent on the ETH Euler cluster (Slurm)
 Tools    →  Python · PyAnsys · Siemens NX · Fusion 360
 ```
@@ -24,6 +24,9 @@ Tools    →  Python · PyAnsys · Siemens NX · Fusion 360
 ## `What I work on`
 
 ```
+Robotics @ ORCA Dexterity
+  - Hardware design for the ORCA dexterous robotic hand
+
 Aerodynamics @ aCentauri
   - Led the six-person aero department
   - Freeform surfacing of the car's outer shell
@@ -35,9 +38,6 @@ Research
     optimisation of a solar race car
   - Semester project: diffuser design for an open-source
     water channel (Prof. D'Andrea)
-
-Robotics @ ORCA Dexterity
-  - Hardware design for the ORCA dexterous robotic hand
 ```
 
 ---
@@ -45,15 +45,15 @@ Robotics @ ORCA Dexterity
 ## `Projects`
 
 ```
+orcahand_hardware    →  CAD + print files for the
+                        ORCA dexterous hand.
+
 aero_cfd_automation  →  aCentauri's end-to-end CFD pipeline.
                         Web-based, AI-driven, PyAnsys /
                         PyFluent on Euler. (private)
 
 Active Fluid Control →  Open-source water channel —
                         diffuser design.
-
-orcahand_hardware    →  CAD + print files for the
-                        ORCA dexterous hand.
 ```
 
-[Active Fluid Control](https://activefluidcontrol.com) · [ORCA hand hardware](https://github.com/orcahand/orcahand_hardware) · [aCentauri](https://www.acentauri.ch/) · [LinkedIn](https://www.linkedin.com/in/leander-hoffmann-492178226)
+[ORCA hand hardware](https://github.com/orcahand/orcahand_hardware) · [aCentauri](https://www.acentauri.ch/) · [Active Fluid Control](https://activefluidcontrol.com) · [LinkedIn](https://www.linkedin.com/in/leander-hoffmann-492178226)
