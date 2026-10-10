@@ -1,5 +1,5 @@
 ```
-Intern   →  Hardware Design @ ORCA Dexterity
+Intern   →  Robotics · Hardware Design @ ORCA Dexterity
 Project  →  aCentauri Solar Racing (student team)
             Aerodynamics · Ex-Lead, still active
 Studies  →  MSc Mechanical Engineering, ETH Zürich
@@ -11,6 +11,7 @@ Tools    →  Python · PyAnsys · Siemens NX · Fusion 360
 
 <div align="center">
 
+![Robotics](https://img.shields.io/badge/Robotics-111111?style=flat-square)
 ![Ansys Fluent](https://img.shields.io/badge/ANSYS_Fluent-FFB71B?style=flat-square&logoColor=black)
 ![PyFluent](https://img.shields.io/badge/PyAnsys_%2F_PyFluent-CC4B00?style=flat-square)
 ![Siemens NX](https://img.shields.io/badge/Siemens_NX-009999?style=flat-square&logo=siemens&logoColor=white)
@@ -25,7 +26,7 @@ Tools    →  Python · PyAnsys · Siemens NX · Fusion 360
 ## `What I work on`
 
 ```
-Internship @ ORCA Dexterity
+Robotics internship @ ORCA Dexterity
   - Hardware design for the ORCA dexterous robotic hand
 
 Aerodynamics @ aCentauri (student project)
